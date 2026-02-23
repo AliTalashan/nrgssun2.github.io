@@ -9,9 +9,9 @@ Now this is your fully functional, customizable webpage. You can tell the world 
 
 You want it to be Bachelor Project? or maybe your independent study? You can describe it here.
 
-# Art and paintings: You can also post about your personal interests!
+## Art and paintings
 
-My suggustion? Upload some pictures of your works.
+You can also post about your personal interests! My suggustion? Upload some pictures of your works.
 
 > This is a blockquote following a header.
 >
