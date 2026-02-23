@@ -2,19 +2,16 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Now this is your fully functional, customizable webpage. You can tell the world about yourself, your interest and the academic journey your on! 
 
-[Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
+# This is your first Project
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+You want it to be Bachelor Project? or maybe your independent study? You can describe it here.
 
-# Header 1
+# Art and paintings: You can also post about your personal interests!
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
+My suggustion? Upload some pictures of your works.
 
 > This is a blockquote following a header.
 >
